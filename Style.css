@@ -1,6 +1,18 @@
 body {
 background-color:black;
 color: ghostwhite;
+ font-family: "Great Vibes", cursive;
 
+}
 
+header {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
 }
