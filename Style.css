@@ -2,11 +2,17 @@ body {
 background-color:black;
 color: ghostwhite;
  font-family: "Great Vibes", cursive;
+ margin: 0px;
+ padding: 5px;
 
 }
 
 header {
     font-size: 30px;
+text-align: center;
+    border: groove 5px gainsboro;
+    margin: 2px;
+padding: 15px;
 }
 
 h1 {
