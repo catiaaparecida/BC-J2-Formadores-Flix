@@ -22,3 +22,14 @@ h1 {
 p {
     font-size: 20px;
 }
+
+section {
+    background-color: rgb(100, 155, 197);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
+}
+.chamada-texto {
+    margin-right: 10%;
+}
