@@ -33,3 +33,20 @@ section {
 .chamada-texto {
     margin-right: 10%;
 }
+
+img {
+    width: 200px;
+    height: 300px;
+}
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+/* código omitido */
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
